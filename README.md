@@ -7,7 +7,7 @@
 #### 프로젝트 과정
 
 1. 원달러 환율 데이터셋 
-- [reference url](https://spot.wooribank.com/pot/Dream?withyou=FXXRT0011)
+ - [reference url](https://spot.wooribank.com/pot/Dream?withyou=FXXRT0011)
 
 2. 데이터 전처리
 
